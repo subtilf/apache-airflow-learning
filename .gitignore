@@ -1,0 +1,5 @@
+single-node/shared/*
+single-node/support/*
+*.yaml
+*.cfg
+*.bat
