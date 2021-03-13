@@ -1,7 +1,7 @@
 # Airflow on Docker - Just for learn purpose!!! 
 
 # What is Apache Airflow?
-<img align="left" src="https://github.com/subtilf/apache-airflow-learning/blob/main/docs/images/apache-airflow-logo.png?raw=true" width="50" height="44"> Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+<img align="left" src="https://github.com/subtilf/apache-airflow-learning/blob/main/docs/images/apache-airflow-logo.png?raw=true" width="100" height="44"> Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
 It is:
 * Scalable - Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.
